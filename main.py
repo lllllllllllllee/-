@@ -1,1 +1,1 @@
-you are beautiful!
+print("you are beautiful!")
